@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KhelaBD//Bangladesh fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangladesh cricket fixtures (KhelaBD)
+BEGIN:VEVENT
+UID:sa-ban-2026-test-1@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261115T080000Z
+DURATION:PT7H
+SUMMARY:SA vs BAN – 1st Test
+LOCATION:The Wanderers Stadium\, Johannesburg
+DESCRIPTION:South Africa vs Bangladesh\, 1st Test. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-test/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-test/
+END:VEVENT
+BEGIN:VEVENT
+UID:sa-ban-2026-test-2@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261123T080000Z
+DURATION:PT7H
+SUMMARY:SA vs BAN – 2nd Test
+LOCATION:SuperSport Park\, Centurion
+DESCRIPTION:South Africa vs Bangladesh\, 2nd Test. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-test/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-test/
+END:VEVENT
+BEGIN:VEVENT
+UID:sa-ban-2026-odi-1@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261201T113000Z
+DURATION:PT8H
+SUMMARY:SA vs BAN – 1st ODI
+LOCATION:Buffalo Park\, East London
+DESCRIPTION:South Africa vs Bangladesh\, 1st ODI. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-odi/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-odi/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71037@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261204T113000Z
+DURATION:PT8H
+SUMMARY:SA vs BAN – 2nd ODI
+LOCATION:St George's Park\, Gqeberha
+DESCRIPTION:South Africa vs Bangladesh\, 2nd ODI. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-odi/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-odi/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71038@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261207T113000Z
+DURATION:PT8H
+SUMMARY:SA vs BAN – 3rd ODI
+LOCATION:Newlands\, Cape Town
+DESCRIPTION:South Africa vs Bangladesh\, 3rd ODI. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-odi/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-odi/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71039@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261210T160000Z
+DURATION:PT4H
+SUMMARY:SA vs BAN – 1st T20I
+LOCATION:Diamond Oval\, Kimberley
+DESCRIPTION:South Africa vs Bangladesh\, 1st T20I. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-t20i/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-t20i/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71040@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261212T123000Z
+DURATION:PT4H
+SUMMARY:SA vs BAN – 2nd T20I
+LOCATION:Willowmoore Park\, Benoni
+DESCRIPTION:South Africa vs Bangladesh\, 2nd T20I. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-t20i/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-t20i/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71041@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20261213T123000Z
+DURATION:PT4H
+SUMMARY:SA vs BAN – 3rd T20I
+LOCATION:SuperSport Park\, Centurion
+DESCRIPTION:South Africa vs Bangladesh\, 3rd T20I. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-t20i/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-t20i/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71587@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20271008T103000Z
+DURATION:PT8H
+SUMMARY:BAN vs ENG – 6th Match
+LOCATION:Venue to be confirmed\, TBC
+DESCRIPTION:Bangladesh vs England\, 6th Match. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/6th-match/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/6th-match/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71590@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20271012T103000Z
+DURATION:PT8H
+SUMMARY:BAN vs NZ – 13th Match
+LOCATION:Venue to be confirmed\, TBC
+DESCRIPTION:Bangladesh vs New Zealand\, 13th Match. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/13th-match/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/13th-match/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71593@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20271016T080000Z
+DURATION:PT8H
+SUMMARY:BAN vs SL – 19th Match
+LOCATION:Venue to be confirmed\, TBC
+DESCRIPTION:Bangladesh vs Sri Lanka\, 19th Match. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/19th-match/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/19th-match/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71596@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20271019T103000Z
+DURATION:PT8H
+SUMMARY:SA vs BAN – 25th Match
+LOCATION:Venue to be confirmed\, TBC
+DESCRIPTION:South Africa vs Bangladesh\, 25th Match. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/25th-match/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/25th-match/
+END:VEVENT
+BEGIN:VEVENT
+UID:sm-71601@khelabd
+DTSTAMP:20261112T061528Z
+DTSTART:20271023T080000Z
+DURATION:PT8H
+SUMMARY:BAN vs QUALIFIER-B – 32nd Match
+LOCATION:Venue to be confirmed\, TBC
+DESCRIPTION:Bangladesh vs Qualifier B\, 32nd Match. Where to watch and live score: https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/32nd-match/
+URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/32nd-match/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,9 @@
+{
+  "name": "KhelaBD",
+  "short_name": "KhelaBD",
+  "start_url":"/khelabd/",
+  "display": "standalone",
+  "background_color": "#121417",
+  "theme_color": "#121417",
+  "icons": [{ "src":"/khelabd/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
