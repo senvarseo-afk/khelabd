@@ -1,3 +1,3 @@
-# Discussion preview of KhelaBD, not the live site.
+# Discussion preview of ShobMatch, not the live site.
 User-agent: *
 Disallow: /

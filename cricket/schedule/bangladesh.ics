@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//KhelaBD//Bangladesh fixtures//EN
+PRODID:-//ShobMatch//Bangladesh fixtures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Bangladesh cricket fixtures (KhelaBD)
+X-WR-CALNAME:Bangladesh cricket fixtures (ShobMatch)
 BEGIN:VEVENT
-UID:demo-ind-ban-test-1@khelabd
-DTSTAMP:20261113T024000Z
-DTSTART:20261112T040000Z
+UID:demo-ind-ban-test-1@shobmatch
+DTSTAMP:20261114T021157Z
+DTSTART:20261113T040000Z
 DURATION:PT7H
 SUMMARY:IND vs BAN – 1st Test
 LOCATION:MA Chidambaram Stadium\, Chennai
@@ -15,9 +15,9 @@ DESCRIPTION:India vs Bangladesh\, 1st Test. Where to watch and live score: https
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-of-india-2026/1st-test-chennai/
 END:VEVENT
 BEGIN:VEVENT
-UID:demo-ind-ban-t20i-1@khelabd
-DTSTAMP:20261113T024000Z
-DTSTART:20261113T133000Z
+UID:demo-ind-ban-t20i-1@shobmatch
+DTSTAMP:20261114T021157Z
+DTSTART:20261114T133000Z
 DURATION:PT4H
 SUMMARY:IND vs BAN – 1st T20I
 LOCATION:Wankhede Stadium\, Mumbai
@@ -25,8 +25,8 @@ DESCRIPTION:India vs Bangladesh\, 1st T20I. Where to watch and live score: https
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-of-india-2026/1st-t20i-mumbai/
 END:VEVENT
 BEGIN:VEVENT
-UID:sa-ban-2026-test-1@khelabd
-DTSTAMP:20261113T024000Z
+UID:sa-ban-2026-test-1@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261115T080000Z
 DURATION:PT7H
 SUMMARY:SA vs BAN – 1st Test
@@ -35,9 +35,9 @@ DESCRIPTION:South Africa vs Bangladesh\, 1st Test. Where to watch and live score
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-test/
 END:VEVENT
 BEGIN:VEVENT
-UID:demo-ind-ban-t20i-2@khelabd
-DTSTAMP:20261113T024000Z
-DTSTART:20261115T133000Z
+UID:demo-ind-ban-t20i-2@shobmatch
+DTSTAMP:20261114T021157Z
+DTSTART:20261116T133000Z
 DURATION:PT4H
 SUMMARY:IND vs BAN – 2nd T20I
 LOCATION:Arun Jaitley Stadium\, Delhi
@@ -45,8 +45,8 @@ DESCRIPTION:India vs Bangladesh\, 2nd T20I. Where to watch and live score: https
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-of-india-2026/2nd-t20i-delhi/
 END:VEVENT
 BEGIN:VEVENT
-UID:sa-ban-2026-test-2@khelabd
-DTSTAMP:20261113T024000Z
+UID:sa-ban-2026-test-2@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261123T080000Z
 DURATION:PT7H
 SUMMARY:SA vs BAN – 2nd Test
@@ -55,8 +55,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 2nd Test. Where to watch and live score
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-test/
 END:VEVENT
 BEGIN:VEVENT
-UID:sa-ban-2026-odi-1@khelabd
-DTSTAMP:20261113T024000Z
+UID:sa-ban-2026-odi-1@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261201T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 1st ODI
@@ -65,8 +65,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 1st ODI. Where to watch and live score:
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-odi/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71037@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71037@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261204T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 2nd ODI
@@ -75,8 +75,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 2nd ODI. Where to watch and live score:
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-odi/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71038@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71038@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261207T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 3rd ODI
@@ -85,8 +85,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 3rd ODI. Where to watch and live score:
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-odi/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71039@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71039@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261210T160000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 1st T20I
@@ -95,8 +95,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 1st T20I. Where to watch and live score
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/1st-t20i/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71040@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71040@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261212T123000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 2nd T20I
@@ -105,8 +105,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 2nd T20I. Where to watch and live score
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/2nd-t20i/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71041@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71041@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20261213T123000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 3rd T20I
@@ -115,8 +115,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 3rd T20I. Where to watch and live score
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-south-africa-2026/3rd-t20i/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71587@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71587@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20271008T103000Z
 DURATION:PT8H
 SUMMARY:BAN vs ENG – 6th Match
@@ -125,8 +125,8 @@ DESCRIPTION:Bangladesh vs England\, 6th Match. Where to watch and live score: ht
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/6th-match/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71590@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71590@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20271012T103000Z
 DURATION:PT8H
 SUMMARY:BAN vs NZ – 13th Match
@@ -135,8 +135,8 @@ DESCRIPTION:Bangladesh vs New Zealand\, 13th Match. Where to watch and live scor
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/13th-match/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71593@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71593@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20271016T080000Z
 DURATION:PT8H
 SUMMARY:BAN vs SL – 19th Match
@@ -145,8 +145,8 @@ DESCRIPTION:Bangladesh vs Sri Lanka\, 19th Match. Where to watch and live score:
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/19th-match/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71596@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71596@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20271019T103000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 25th Match
@@ -155,8 +155,8 @@ DESCRIPTION:South Africa vs Bangladesh\, 25th Match. Where to watch and live sco
 URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/25th-match/
 END:VEVENT
 BEGIN:VEVENT
-UID:sm-71601@khelabd
-DTSTAMP:20261113T024000Z
+UID:sm-71601@shobmatch
+DTSTAMP:20261114T021157Z
 DTSTART:20271023T080000Z
 DURATION:PT8H
 SUMMARY:BAN vs QUALIFIER-B – 32nd Match
