@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bangladesh cricket fixtures (ShobMatch)
 BEGIN:VEVENT
 UID:demo-ind-ban-test-1@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261113T040000Z
 DURATION:PT7H
 SUMMARY:IND vs BAN – 1st Test
@@ -16,7 +16,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-o
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-ind-ban-t20i-1@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261114T133000Z
 DURATION:PT4H
 SUMMARY:IND vs BAN – 1st T20I
@@ -26,7 +26,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-o
 END:VEVENT
 BEGIN:VEVENT
 UID:sa-ban-2026-test-1@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261115T080000Z
 DURATION:PT7H
 SUMMARY:SA vs BAN – 1st Test
@@ -36,7 +36,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-ind-ban-t20i-2@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261116T133000Z
 DURATION:PT4H
 SUMMARY:IND vs BAN – 2nd T20I
@@ -46,7 +46,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/demo-bangladesh-tour-o
 END:VEVENT
 BEGIN:VEVENT
 UID:sa-ban-2026-test-2@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261123T080000Z
 DURATION:PT7H
 SUMMARY:SA vs BAN – 2nd Test
@@ -56,7 +56,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sa-ban-2026-odi-1@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261201T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 1st ODI
@@ -66,7 +66,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71037@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261204T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 2nd ODI
@@ -76,7 +76,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71038@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261207T113000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 3rd ODI
@@ -86,7 +86,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71039@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261210T160000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 1st T20I
@@ -96,7 +96,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71040@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261212T123000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 2nd T20I
@@ -106,7 +106,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71041@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20261213T123000Z
 DURATION:PT4H
 SUMMARY:SA vs BAN – 3rd T20I
@@ -116,7 +116,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/bangladesh-tour-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71587@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20271008T103000Z
 DURATION:PT8H
 SUMMARY:BAN vs ENG – 6th Match
@@ -126,7 +126,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/6th-mat
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71590@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20271012T103000Z
 DURATION:PT8H
 SUMMARY:BAN vs NZ – 13th Match
@@ -136,7 +136,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/13th-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71593@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20271016T080000Z
 DURATION:PT8H
 SUMMARY:BAN vs SL – 19th Match
@@ -146,7 +146,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/19th-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71596@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20271019T103000Z
 DURATION:PT8H
 SUMMARY:SA vs BAN – 25th Match
@@ -156,7 +156,7 @@ URL:https://senvarseo-afk.github.io/khelabd/cricket/match/world-cup-2027/25th-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:sm-71601@shobmatch
-DTSTAMP:20261114T021157Z
+DTSTAMP:20261114T081047Z
 DTSTART:20271023T080000Z
 DURATION:PT8H
 SUMMARY:BAN vs QUALIFIER-B – 32nd Match

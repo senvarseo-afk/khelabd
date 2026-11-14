@@ -4,6 +4,11 @@
   "start_url":"/khelabd/",
   "display": "standalone",
   "background_color": "#121417",
-  "theme_color": "#121417",
-  "icons": [{ "src":"/khelabd/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "theme_color": "#0E3B2A",
+  "icons": [
+    { "src":"/khelabd/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src":"/khelabd/img/logo.png", "sizes": "512x512", "type": "image/png" },
+    { "src":"/khelabd/img/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src":"/khelabd/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
 }
